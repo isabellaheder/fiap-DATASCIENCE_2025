@@ -2,4 +2,4 @@
 
 Repositório da turma DATA SCIENCE (1TSCPV) - 2025 - FIAP
 
-# Este projeto inicial pertence à turma 1TSCPV
+Este projeto inicial pertence à turma 1TSCPV
